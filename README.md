@@ -8,5 +8,3 @@ Loading the extension
 - make sure that developer mode is turned on
 - click load unpacked and select the repo
 
-Follow the [blog](https://medium.com/javascript-in-plain-english/creating-a-chrome-extension-with-react-d92db20550cb) for steps on how to create this extension.
-
